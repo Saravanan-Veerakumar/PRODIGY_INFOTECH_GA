@@ -1,0 +1,101 @@
+clinical_note,icd10_codes,cpt_codes
+Patient is a 25-year-old female diagnosed with asthma. Performed knee arthroscopy. Scheduled follow-up appointment.,J45.40;J30.2,29881;D0120;D1110
+Patient is a Child diagnosed with asthma. Administered antibiotics.,J45.40,99213
+Patient is a 45-year-old male diagnosed with hypertension. Prescribed antidepressants.,I10,90832
+Patient is a 30-year-old female diagnosed with asthma. Performed dental cleaning and examination. Administered antibiotics.,J45.40,D0120;D1110
+Patient is a 30-year-old female diagnosed with meniscal tear. Prescribed physical therapy.,M23.221,97110
+Patient is a 40-year-old female diagnosed with allergic conjunctivitis. Prescribed inhalers. Prescribed physical therapy.,J30.2,94640
+Patient is a 50-year-old male diagnosed with acute lower back pain. Performed ecg.,M54.5,93000
+Patient is a 30-year-old female diagnosed with meniscal tear. Scheduled pulmonary rehabilitation.,M23.221,99195
+Patient is a 35-year-old male diagnosed with acute lower back pain. Performed ecg. Administered joint injections.,M54.5,93000
+Patient is a Senior patient diagnosed with depression. Prescribed antihistamines. Performed knee arthroscopy.,F33.1,99213
+Patient is a 60-year-old female diagnosed with otitis media. Performed ecg.,H66.90,93000
+Patient is a 45-year-old male diagnosed with otitis media. Initiated insulin therapy.,H66.90,99214
+Patient is a 55-year-old male diagnosed with migraine headache. Administered inhaled corticosteroids. Prescribed inhalers.,G43.909,94640
+Patient is a Child diagnosed with otitis media. Initiated insulin therapy.,H66.90,99214
+Patient is a 35-year-old male diagnosed with type 2 diabetes mellitus. Prescribed antihistamines.,E11.9,99213
+Patient is a 40-year-old female diagnosed with hypertension. Scheduled follow-up appointment. Performed tonsillectomy.,I10;M17.11,99215;93000
+Patient is a 60-year-old female diagnosed with type 1 diabetes mellitus. Scheduled pulmonary rehabilitation.,E10.9,99195
+Patient is a 40-year-old female diagnosed with type 1 diabetes mellitus. Administered inhaled corticosteroids.,E10.9,94640
+Patient is a 25-year-old female diagnosed with pneumonia. Prescribed physical therapy. Performed knee arthroscopy.,J18.9,97110
+Patient is a 40-year-old female diagnosed with depression. Performed ecg. Prescribed antihistamines.,F33.1,93000
+Patient is a 25-year-old female diagnosed with meniscal tear. Prescribed physical therapy.,M23.221,97110
+Patient is a 40-year-old female diagnosed with asthma. Prescribed inhalers.,J45.40,94640
+Patient is a 50-year-old male diagnosed with pneumonia. Administered nasal corticosteroids.,J18.9,99214
+Patient is a 35-year-old male diagnosed with chronic obstructive pulmonary disease. Administered bronchodilators.,J44.9,94660
+Patient is a 25-year-old female diagnosed with otitis media. Initiated insulin therapy. Performed laparoscopic appendectomy.,H66.90,99214
+Patient is a 55-year-old male diagnosed with acute lower back pain. Administered nasal corticosteroids.,M54.5,99214
+Patient is a 35-year-old male diagnosed with migraine headache. Performed tonsillectomy. Administered inhaled corticosteroids.,G43.909,42820
+Patient is a 60-year-old female diagnosed with depression. Scheduled pulmonary rehabilitation.,F33.1,99195
+Patient is a 55-year-old male diagnosed with meniscal tear. Scheduled follow-up appointment. Initiated cognitive behavioral therapy.,M23.221,99215
+Patient is a 60-year-old female diagnosed with hypertension. Scheduled follow-up appointment. Initiated insulin therapy.,I10,99215
+Patient is a 50-year-old male diagnosed with chronic obstructive pulmonary disease. Initiated cognitive behavioral therapy. Prescribed inhalers.,J44.9;M17.11,90834;93000
+Patient is a 50-year-old male diagnosed with chronic obstructive pulmonary disease. Performed ecg. Performed laparoscopic appendectomy.,J44.9,93000
+Patient is a 40-year-old female diagnosed with allergic conjunctivitis. Performed tonsillectomy.,J30.2,42820
+Patient is a 25-year-old female diagnosed with type 1 diabetes mellitus. Scheduled pulmonary rehabilitation. Administered bronchodilators.,E10.9,99195
+Patient is a 45-year-old male diagnosed with allergic rhinitis. Initiated insulin therapy.,J30.9,99214
+Patient is a 55-year-old male diagnosed with allergic conjunctivitis. Scheduled follow-up appointment.,J30.2,99215
+Patient is a 55-year-old male diagnosed with chronic obstructive pulmonary disease. Initiated cognitive behavioral therapy. Administered bronchodilators.,J44.9,90834
+Patient is a 45-year-old male diagnosed with asthma. Administered nasal corticosteroids.,J45.40,99214
+Patient is a 50-year-old male diagnosed with type 1 diabetes mellitus. Administered joint injections.,E10.9,20610
+Patient is a 35-year-old male diagnosed with allergic rhinitis. Scheduled pulmonary rehabilitation. Initiated insulin therapy.,J30.9,99195
+Patient is a 35-year-old male diagnosed with recurrent tonsillitis. Performed knee arthroscopy.,J35.01,29881
+Patient is a Child diagnosed with pneumonia. Prescribed inhalers. Administered inhaled corticosteroids.,J18.9,94640
+Patient is a 30-year-old female diagnosed with acute lower back pain. Performed dental cleaning and examination.,M54.5,D0120;D1110
+Patient is a 40-year-old female diagnosed with migraine headache. Performed ecg.,G43.909,93000
+Patient is a Senior patient diagnosed with type 2 diabetes mellitus. Administered antibiotics.,E11.9,99213
+Patient is a 25-year-old female diagnosed with meniscal tear. Performed laparoscopic appendectomy. Provided dietary and exercise recommendations.,M23.221;M54.5,44970;99213
+Patient is a 50-year-old male diagnosed with depression. Prescribed antihistamines. Prescribed antidepressants.,F33.1,99213
+Patient is a 50-year-old male diagnosed with depression. Prescribed inhalers. Performed knee arthroscopy.,F33.1,94640
+Patient is a 60-year-old female diagnosed with pneumonia. Scheduled follow-up appointment.,J18.9,99215
+Patient is a 40-year-old female diagnosed with recurrent tonsillitis. Administered joint injections.,J35.01,20610
+Patient is a Senior patient diagnosed with acute lower back pain. Administered joint injections. Performed knee arthroscopy.,M54.5,20610
+Patient is a Child diagnosed with allergic conjunctivitis. Performed knee arthroscopy.,J30.2,29881
+Patient is a 25-year-old female diagnosed with osteoarthritis of the knee. Administered bronchodilators.,M17.11,94660
+Patient is a 55-year-old male diagnosed with recurrent tonsillitis. Prescribed inhalers.,J35.01,94640
+Patient is a 45-year-old male diagnosed with type 1 diabetes mellitus. Administered inhaled corticosteroids.,E10.9,94640
+Patient is a Senior patient diagnosed with asthma. Scheduled pulmonary rehabilitation. Scheduled follow-up appointment.,J45.40,99195
+Patient is a 30-year-old female diagnosed with recurrent tonsillitis. Administered bronchodilators.,J35.01,94660
+Patient is a 35-year-old male diagnosed with acute lower back pain. Administered pain management medications.,M54.5,97110
+Patient is a 60-year-old female diagnosed with allergic rhinitis. Administered bronchodilators.,J30.9,94660
+Patient is a 45-year-old male diagnosed with type 1 diabetes mellitus. Administered joint injections.,E10.9,20610
+Patient is a 50-year-old male diagnosed with allergic conjunctivitis. Administered antibiotics. Provided dietary and exercise recommendations.,J30.2;M17.11,99213;97110
+Patient is a Senior patient diagnosed with asthma. Administered joint injections.,J45.40,20610
+Patient is a 40-year-old female diagnosed with allergic conjunctivitis. Performed dental cleaning and examination.,J30.2,D0120;D1110
+Patient is a 35-year-old male diagnosed with hypertension. Prescribed inhalers.,I10,94640
+Patient is a 40-year-old female diagnosed with osteoarthritis of the knee. Prescribed inhalers. Administered antibiotics.,M17.11,94640
+Patient is a 40-year-old female diagnosed with depression. Performed tonsillectomy.,F33.1,42820
+Patient is a 25-year-old female diagnosed with allergic rhinitis. Prescribed antidepressants.,J30.9,90832
+Patient is a 55-year-old male diagnosed with meniscal tear. Administered joint injections.,M23.221,20610
+Patient is a 45-year-old male diagnosed with allergic conjunctivitis. Performed laparoscopic appendectomy.,J30.2,44970
+Patient is a Child diagnosed with recurrent tonsillitis. Prescribed antihistamines.,J35.01,99213
+Patient is a Child diagnosed with pneumonia. Provided dietary and exercise recommendations.,J18.9,99396
+Patient is a 55-year-old male diagnosed with migraine headache. Initiated cognitive behavioral therapy.,G43.909,90834
+Patient is a 55-year-old male diagnosed with migraine headache. Performed tonsillectomy.,G43.909,42820
+Patient is a 25-year-old female diagnosed with osteoarthritis of the knee. Administered pain management medications.,M17.11,97110
+Patient is a 30-year-old female diagnosed with osteoarthritis of the knee. Scheduled pulmonary rehabilitation.,M17.11,99195
+Patient is a 60-year-old female diagnosed with osteoarthritis of the knee. Initiated cognitive behavioral therapy.,M17.11;M23.221,90834;99213
+Patient is a Senior patient diagnosed with meniscal tear. Performed tonsillectomy. Administered inhaled corticosteroids.,M23.221,42820
+Patient is a 50-year-old male diagnosed with acute lower back pain. Administered joint injections. Administered antibiotics.,M54.5,20610
+Patient is a Senior patient diagnosed with type 1 diabetes mellitus. Administered bronchodilators.,E10.9,94660
+Patient is a 30-year-old female diagnosed with otitis media. Performed ecg. Administered joint injections.,H66.90,93000
+Patient is a Child diagnosed with chronic obstructive pulmonary disease. Provided dietary and exercise recommendations.,J44.9,99396
+Patient is a Child diagnosed with chronic obstructive pulmonary disease. Scheduled pulmonary rehabilitation. Performed tonsillectomy.,J44.9,99195
+Patient is a 55-year-old male diagnosed with meniscal tear. Scheduled pulmonary rehabilitation. Prescribed physical therapy.,M23.221,99195
+Patient is a 45-year-old male diagnosed with acute lower back pain. Performed knee arthroscopy.,M54.5,29881
+Patient is a 55-year-old male diagnosed with hypertension. Performed dental cleaning and examination. Prescribed physical therapy.,I10,D0120;D1110
+Patient is a 30-year-old female diagnosed with type 2 diabetes mellitus. Provided dietary and exercise recommendations.,E11.9,99396
+Patient is a 25-year-old female diagnosed with pneumonia. Prescribed physical therapy.,J18.9,97110
+Patient is a 60-year-old female diagnosed with otitis media. Provided dietary and exercise recommendations.,H66.90,99396
+Patient is a 50-year-old male diagnosed with asthma. Provided dietary and exercise recommendations.,J45.40,99396
+Patient is a 60-year-old female diagnosed with hypertension. Initiated cognitive behavioral therapy.,I10,90834
+Patient is a Senior patient diagnosed with hypertension. Scheduled follow-up appointment. Scheduled follow-up appointment.,I10;J35.01,99215;29881
+Patient is a 50-year-old male diagnosed with chronic obstructive pulmonary disease. Performed ecg.,J44.9,93000
+Patient is a 55-year-old male diagnosed with pneumonia. Performed laparoscopic appendectomy. Administered joint injections.,J18.9,44970
+Patient is a 60-year-old female diagnosed with asthma. Administered bronchodilators.,J45.40,94660
+Patient is a Child diagnosed with migraine headache. Administered nasal corticosteroids.,G43.909,99214
+Patient is a Senior patient diagnosed with recurrent tonsillitis. Scheduled pulmonary rehabilitation.,J35.01,99195
+Patient is a 35-year-old male diagnosed with depression. Administered pain management medications. Performed tonsillectomy.,F33.1,97110
+Patient is a 25-year-old female diagnosed with type 1 diabetes mellitus. Scheduled pulmonary rehabilitation. Administered joint injections.,E10.9,99195
+Patient is a 55-year-old male diagnosed with osteoarthritis of the knee. Provided dietary and exercise recommendations.,M17.11,99396
+Patient is a 25-year-old female diagnosed with type 1 diabetes mellitus. Administered pain management medications. Performed dental cleaning and examination.,E10.9,97110
